@@ -6,6 +6,7 @@ I enjoy in-depth learning and have worked since 2018 with multiple technologies 
 - I'm currently looking for opportunities to expand my experience with scalable web applications on Spring
 - Building an application with the wxPython framework to leverage natural language processing models to improve learning outcomes for rural children in Ghana.
 - I share my thoughts on [LinkedIn](https://www.linkedin.com/in/mark-amoako-m-b0b836162) & [blog](https://hashnode.com/@markmarcel)
+- I'll like to learn about embedded systems and natural language processing
 
 <!--
 **MarkMarcel/MarkMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
