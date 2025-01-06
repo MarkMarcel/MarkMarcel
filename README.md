@@ -2,7 +2,7 @@
 A senior software engineer passionate about positive social impact.<br/> 
 I enjoy in-depth learning and have worked since 2018 with multiple technologies including Android, iOS, Flutter, Kotlin Multiplatform, Springboot, Quarkus, Angular, React, and ExpressJS.
 
-- I have extensive mobile development experience with Android and Flutter
+- I have extensive mobile development experience with Android, iOS, Kotlin Multiplatform and Flutter
 - I'm currently looking for opportunities to expand my experience with scalable web applications on Spring
 - Building an application with the wxPython framework to leverage natural language processing models to improve learning outcomes for rural children in Ghana.
 - I share my thoughts on [LinkedIn](https://www.linkedin.com/in/mark-amoako-m-b0b836162) & [blog](https://hashnode.com/@markmarcel)
