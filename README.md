@@ -1,24 +1,7 @@
-## Hello I'm Mark 👋
-A senior software engineer passionate about positive social impact.<br/> 
-I enjoy in-depth learning and have worked since 2018 with multiple technologies including Android, iOS, Flutter, Kotlin Multiplatform, Springboot, Quarkus, Angular, React, and ExpressJS.
+## Android | iOS | Kotlin Multiplatform | Attracted To Impactful Innovation
 
-- I have extensive mobile development experience with Android, iOS, Kotlin Multiplatform and Flutter
-- I'm currently looking for opportunities to expand my experience with scalable web applications on Spring
-- Building an application with the wxPython framework to leverage natural language processing models to improve learning outcomes for rural children in Ghana.
-- I share my thoughts on [LinkedIn](https://www.linkedin.com/in/mark-amoako-m-b0b836162) & [blog](https://hashnode.com/@markmarcel)
-- I'll like to learn about embedded systems and natural language processing
+### Contributing to
+- [Tunasoma](https://github.com/GhanaNLP/tunasoma)
 
-<!--
-**MarkMarcel/MarkMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I share my thoughts & and learnings on [LinkedIn](http://www.linkedin.com/in/mark-m-b0b836162) & [Blog](https://hashnode.com/@markmarcel)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
